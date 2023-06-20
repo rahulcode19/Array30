@@ -3,7 +3,7 @@ A list of 30 must do questions from Array - Leetcode
 
 Easy
 
-- [ ] Two Sum: https://leetcode.com/problems/two-sum/
+- [x] Two Sum: https://leetcode.com/problems/two-sum/
 - [ ] Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 - [ ] Rotate Array: https://leetcode.com/problems/rotate-array/
 - [ ] Find First and Last Position of Element in Sorted Array: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
