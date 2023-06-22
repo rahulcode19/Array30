@@ -1,5 +1,4 @@
-# Array30
-A list of 30 must do questions from Array - Leetcode 
+#Array30 - Must-Do Questions from Array - LeetCode
 
 Easy:
 
@@ -16,6 +15,8 @@ Sort Colors
 Remove Duplicates from Sorted Array
 Find First and Last Position of Element in Sorted Array
 Search Insert Position
+
+
 Medium:
 
 Product of Array Except Self
@@ -31,6 +32,8 @@ Minimum Path Sum
 Unique Paths II
 3Sum Closest
 4Sum
+
+
 Hard:
 
 Find Minimum in Rotated Sorted Array
